@@ -5,6 +5,12 @@ API: https://hn.algolia.com/api
 
 Deployed URL: https://kunalchadha-hackernewsclone.netlify.app/
 
+Features: 
+1. Responsive UI
+2. Upvotes
+3. Hide
+4. Infinite Scroll
+
 ## How to Run Locally
 1. `npm install`
 2. `npm run tests`
