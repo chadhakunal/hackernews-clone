@@ -5,7 +5,7 @@ API: https://hn.algolia.com/api
 
 Deployed URL: https://kunalchadha-hackernewsclone.netlify.app/
 
-Features: 
+<b>Features:</b> 
 1. Responsive UI
 2. Upvotes
 3. Hide
