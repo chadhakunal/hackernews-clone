@@ -1,0 +1,1 @@
+export const PAGE_SIZE = 20; // Number of documents to be returned by the Hacker News API
